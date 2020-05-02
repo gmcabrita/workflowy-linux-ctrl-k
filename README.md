@@ -1,6 +1,6 @@
 # Workflowy Linux Ctrl+K
 
-[link-cws]: https://chrome.google.com/webstore/detail/google-podcasts-volume-sl/obgcppgajfhdpbckfneibpnkcognhfcb "Version published on Chrome Web Store"
+[link-cws]: https://chrome.google.com/webstore/detail/workflowy-linux-ctrl-k/obgcppgajfhdpbckfneibpnkcognhfcb "Version published on Chrome Web Store"
 
 Enables Ctrl+K shortcut for workflowy.com on Linux, that's it.
 
