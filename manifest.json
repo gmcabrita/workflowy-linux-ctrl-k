@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+  "name": "Workflowy Linux Ctrl+K",
+  "short_name": "Enables Ctrl+K shortcut for workflowy.com on Linux, that's it.",
+  "description": "Enables Ctrl+K shortcut for workflowy.com on Linux, that's it.",
+  "version": "1.0.0",
+  "icons": {
+    "34": "icon-34.png",
+    "128": "icon-128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://workflowy.com/*", "*://*.workflowy.com/*"],
+      "js": ["workflowy.js"]
+    }
+  ]
+}
